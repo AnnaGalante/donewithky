@@ -1,0 +1,35 @@
+#kyBtn{
+	background-color: #fff;
+	color: #1FBCD2;
+	border-radius: 50%;
+	font-size: 26pt;
+	font-weight: 900;
+	height: 270px;
+	width: 270px;
+	border: none;
+	align-self: center;
+	margin-top: 40px;
+}
+
+#kyBtn:hover{
+	color: #8ee4f0;
+	border: none;
+}
+
+#kyBtn:active{
+	box-shadow: inset 1em 1em #138090;
+}
+
+.btn{
+	text-align: center;
+}
+
+.dwkDescription{
+	margin-top: 20%;
+}
+
+/* Core elements */
+body{
+	background-color: #1FBCD2;
+	color: #fff;
+}
